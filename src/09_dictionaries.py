@@ -55,4 +55,4 @@ print(waypoints)
 # YOUR CODE HERE
 for x in waypoints:
     for i in x:
-        print(f"{i}: {x[i]} ")
+        print(f"{i}: {x[i]}")
